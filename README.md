@@ -1,4 +1,4 @@
-## whatsapp-clone
+## Whatsapp-clone with SSR
 Whatsapp clone with reactjs, nextjs and google firebase
 
 
